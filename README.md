@@ -1,7 +1,7 @@
 # Web Scraping Websites
 A project that compiles codes for multiple web scraping websites
 
-## What is Web Scraping
+## What is Web Scraping?
 
 Web Scraping is an automatic method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications.
 
@@ -34,4 +34,19 @@ This project is in collaboration with the Growth Hack department, where we help 
 8. **plats.py** <br>
    Code for scraping Platform Selangor (PLATS) website <br>
    Website Link 🠊 https://platselangor.com/senarai-penjaja-listing/?sf-s=&sf-listdom-category=&sf-listdom-label=&sf-listdom-location=&sf-att-168-eq=
+   
+### Libraries
+
+Although the libraries used in each python file vary between one another, below is the general list of libraries that you can download in your virtual environment:
+
+1. bs4
+2. requests
+3. selenium
+4. time
+5. openpyxl
+6. pandas
+
+
+
+
 
