@@ -34,6 +34,8 @@ This project is in collaboration with the Growth Hack department, where we help 
 8. **plats.py** <br>
    Code for scraping Platform Selangor (PLATS) website <br>
    Website Link 🠊 https://platselangor.com/senarai-penjaja-listing/?sf-s=&sf-listdom-category=&sf-listdom-label=&sf-listdom-location=&sf-att-168-eq=
+9. **requirements.txt** <br>
+   List of the libraries and their respected versions required for the project
    
 
 
