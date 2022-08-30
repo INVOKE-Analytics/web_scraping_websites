@@ -18,7 +18,7 @@ This project is in collaboration with the Growth Hack department, where we help 
    Website Link 🠊 https://www.businesslist.my/category/general-business
 3. **iks.py** <br>
    Code for scraping iks.my website <br>
-   Website Link 🠊 https://iks.my/smedirectory/category=0&zoom=13&is_mile=0&directory_radius=50&view=list&hide_searchbox=0&hide_nav=0&hide_nav_views=1&hide_pager=0&featured_only=0&feature=1&perpage=15 
+   Website Link 🠊 https://iks.my/sme-directory/?category=0&zoom=13&is_mile=0&directory_radius=50&view=list&hide_searchbox=0&hide_nav=0&hide_nav_views=1&hide_pager=0&featured_only=0&feature=1&perpage=15
 4. **imfan.py** <br>
    Code for scraping International Muslim Friendly Affiliated Network (IMFAN) website <br>
    Website Link 🠊 https://www.imfan.com.my/index.php?route=product/seller
@@ -29,7 +29,7 @@ This project is in collaboration with the Growth Hack department, where we help 
    Code for scraping NEWPAGES website <br>
    Website Link 🠊 https://m.newpages.com.my/en/free-listing/index.html
 7. **pekema.py** <br>
-   Code for acraping Persatuan Pengimport and Peniaga Kenderaan (PEKEMA) website <br>
+   Code for scraping Persatuan Pengimport and Peniaga Kenderaan (PEKEMA) website <br>
    Website Link 🠊 https://pekema.org.my/senarai-ahli-pekema/
 8. **plats.py** <br>
    Code for scraping Platform Selangor (PLATS) website <br>
