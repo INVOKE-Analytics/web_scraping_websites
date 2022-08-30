@@ -35,16 +35,7 @@ This project is in collaboration with the Growth Hack department, where we help 
    Code for scraping Platform Selangor (PLATS) website <br>
    Website Link 🠊 https://platselangor.com/senarai-penjaja-listing/?sf-s=&sf-listdom-category=&sf-listdom-label=&sf-listdom-location=&sf-att-168-eq=
    
-### Libraries
 
-Although the libraries used in each python file vary between one another, below is the general list of libraries that you can download in your virtual environment:
-
-1. bs4
-2. requests
-3. selenium
-4. time
-5. openpyxl
-6. pandas
 
 
 
